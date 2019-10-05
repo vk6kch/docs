@@ -26,3 +26,7 @@ When using an outdoor antenna, please consider installing surge protection devic
 
 * [RJ45 lightning protection](https://www.aliexpress.com/item/100-1000M-POE-IP-Camera-Network-POE-Switch-RJ45-POE-Surge-Protector-Protection-device-Lightning-Arrester/32917720379.html) _(Assuming you use power over ethernet)_
 * [PoE Injector + lightning protection](https://www.aliexpress.com/item/Gigabit-POE-6-Port-Power-over-Ethernet-Injector-For-UBNT-IP-Camera-VOIP-phone-WiFi-Access/32850552905.html)
+
+## L-Com
+
+* Coax: [L-Com N-male to N-female lightning surge arrestor](http://www.l-com.com/surge-protector-n-male-to-n-female-bulkhead-0-3-ghz-600v-lightning-protector)
